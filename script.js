@@ -1,5 +1,5 @@
 // FOODIE reservation form — Google Apps Script endpoint
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbypgnUE-TQHlqkNWujl2B_EjvkmcjVUF71_uL0wmOREEJEUJ96nri6Azr9EFkNbq40UmA/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxMeRhIROAC4FXzlAWbkT8BqC_iCP4Swfd4YLnO2TRqFi9kf4Nz9qJ8PlNNo5zcfXldUQ/exec";
 const form = document.getElementById("reservationForm");
 const statusBox = document.getElementById("formStatus");
 const dateField = form.querySelector('[name="date"]');
